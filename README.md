@@ -16,6 +16,8 @@ You will also see any lint errors in the console.
 
 #HEROKU APP LINK
 
+this is a live link in heroku
+
 https://invictus-assignmentlpu.herokuapp.com/
 
 #Screen shots
