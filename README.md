@@ -20,6 +20,4 @@ https://invictustask.herokuapp.com/
 
 #Screen shots
 
-![image](https://user-images.githubusercontent.com/84021141/118394776-542aad80-b664-11eb-97b4-3d58f4431d8c.png)
-![image](https://user-images.githubusercontent.com/84021141/118394778-5c82e880-b664-11eb-8f85-00991bf2ad2d.png)
 
